@@ -43,7 +43,7 @@
               <shadeSourcesContent>true</shadeSourcesContent>
               <relocations>
                 <relocation>
-                  <pattern>com.google.gwt.emultest</pattern>
+                  <pattern>com.google.gwt.time</pattern>
                   <shadedPattern>java.time</shadedPattern>
                 </relocation>
               </relocations>

@@ -1,4 +1,4 @@
-package com.google.gwt.emultest;
+package com.google.gwt.time;
 
 public class LocalDate {
 
